@@ -31,7 +31,7 @@
 ### Qué hago
 - Frontend: **React**, **Next.js**, **TypeScript**, **Tailwind CSS**.
 - Backend: **Node.js**, **Express**, **Java**, **Spring Boot**, REST APIs.
-- Datos: **PostgreSQL**, **MySQL**, **MongoDB**, **SQLite**.
+- Base de datos: **PostgreSQL**, **MySQL**, **MongoDB**, **SQLite**.
 - Infra: **AWS** (EC2, RDS, S3, Lambda), **Docker**, CI/CD.
 
 ### Stack principal
@@ -39,16 +39,7 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,next,html,css,tailwind,sass,nodejs,express,java,spring,py,aws,docker,mongodb,postgres,mysql,sqlite,git,linux&perline=11" alt="stack" />
 </p>
 
-### Proyectos destacados
-> Reemplazá con tus repos reales. Usá repos “pinned” en tu perfil para consistencia.
 
-| Proyecto | Descripción | Tech |
-|---|---|---|
-| [Dashboard SSR](https://github.com/JulianCappellari/Dashboard-SSR) | Panel con auth, roles y métricas. | Next.js, TS, Tailwind, Prisma, Postgres |
-| [API Store](https://github.com/JulianCappellari/API-Store) | API REST con tests y cache. | Node, Express, Jest, Redis |
-| [Landing SEO](https://github.com/JulianCappellari/Landing-SEO) | Landing responsive optimizada. | React, Vite, CSS |
-
-> Si los nombres no existen aún, renombrá o vinculá los repos correctos.
 
 ### Métricas
 <p align="left">
@@ -56,12 +47,9 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianCappellari&layout=compact&langs_count=8" alt="top-langs" />
 </p>
 
-### Cómo trabajo
-- Versionado con **Git/GitHub** y PRs claros.
-- Testing con **Jest** y **RTL** cuando aplica.
-- Calidad: **ESLint**, **Prettier**, hooks pre-commit.
+
 
 ### Contacto
 - 📧 **Email:** juliancappellari11@gmail.com  
-- 🔗 **LinkedIn:** /in/juliancappellari  
-- 🌐 **Portafolio:** mi-portafolio-jc.vercel.app
+- 🔗 **LinkedIn:** [juliancappellari ](https://www.linkedin.com/in/juliancappellari/) 
+- 🌐 **Portafolio:** [mi-portafolio-jc.vercel.app](https://mi-portafolio-jc.vercel.app/)
